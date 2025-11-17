@@ -1,5 +1,4 @@
-# Firebase Auth Full Example
-
+# Firebase Auth 
 A React application demonstrating Firebase Authentication with Firestore integration for a stock portfolio and watchlist dashboard.
 
 ## Features
