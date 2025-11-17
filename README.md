@@ -26,7 +26,7 @@ A React application demonstrating Firebase Authentication with Firestore integra
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/shannu-afk/Null-class-task1
    cd firebase-auth-full-example
    ```
 
